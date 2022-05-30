@@ -1,3 +1,4 @@
+# 👋 Howdy! I'm Ismadie!
 
 💼 I’m currently freelancing on Upwork & Fiverr
 
