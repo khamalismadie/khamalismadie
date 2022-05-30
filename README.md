@@ -1,4 +1,4 @@
-![ismadie banner](./ismadie.png)
+![ismadie banner](./ismadie-banner.png)
 
 # 👋 Howdy! I'm Ismadie!
 
