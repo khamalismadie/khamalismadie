@@ -2,7 +2,7 @@
 
 # 👋 Howdy! I'm Ismadie!
 
-💼 I’m currently freelancing on Upwork & Fiverr
+💼 I’m currently freelancing on Upwork
 
 👯 I’m looking to collaborate on React Project
 
