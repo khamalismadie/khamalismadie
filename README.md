@@ -25,8 +25,8 @@ I'm a tech enthusiast and builder who loves turning ideas into real, usable prod
 
 ---
 
-## 🧩 Featured Project
-### 🔗 [lakuin.my.id](https://lakuin.my.id)  
+## 🧩 Current Projects
+### 🚀[Lakuin](https://lakuin.my.id)  
 A personal product and experimentation platform where I design, build, and validate digital products — from idea to execution.  
 Focused on usability, speed, and practical solutions for creators and everyday users.  
 
