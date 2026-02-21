@@ -31,6 +31,8 @@ A personal product and experimentation platform where I design, build, and valid
 Focused on usability, speed, and practical solutions for creators and everyday users.  
 ### 📷[EazyCam](https://github.com/khamalismadie/eazycam)  
 EazyCam is a cross-platform desktop application that allows you to use your smartphone as a high-quality webcam for video calls, streaming, and content creation.
+### ✍️ [Copyku](https://clawhub.ai/khamalismadie/copyku)
+AI Copywriting Expert berbahasa Indonesia - menghasilkan copy persuasif, strategis, dan conversion-oriented untuk digital marketing, social media, landing page.
 
 ---
 
