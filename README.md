@@ -29,6 +29,8 @@ I'm a tech enthusiast and builder who loves turning ideas into real, usable prod
 ### 🚀[Lakuin](https://lakuin.my.id)  
 A personal product and experimentation platform where I design, build, and validate digital products — from idea to execution.  
 Focused on usability, speed, and practical solutions for creators and everyday users.  
+### 📷[EazyCam](https://github.com/khamalismadie/eazycam)  
+EazyCam is a cross-platform desktop application that allows you to use your smartphone as a high-quality webcam for video calls, streaming, and content creation.
 
 ---
 
