@@ -73,6 +73,20 @@ I'm a full-stack developer with years of hands-on experience shipping production
 <tr>
 <td width="33%" valign="top">
 
+### 💡 [Ideabank](https://github.com/khamalismadie/ideabank)
+
+Mindmap-powered idea management system with AI assistance. Open source project for capturing, connecting, and developing ideas visually.
+
+**Stack:**
+<br>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+
+</td>
+<td width="33%" valign="top">
+
 ### 💰 [Lumina Wallet](https://luminawallet.org)
 
 Production-ready cryptocurrency wallet platform focused on usability, security, and modern user experience.
@@ -81,18 +95,6 @@ Production-ready cryptocurrency wallet platform focused on usability, security, 
 <br>
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-
-</td>
-<td width="33%" valign="top">
-
-### 🧪 [Lakuin](https://lakuin.my.id)
-
-Product experimentation platform turning ideas into practical digital solutions. Also serves as my live portfolio.
-
-**Stack:**
-<br>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Full--Stack_JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 
 </td>
 <td width="33%" valign="top">
@@ -108,6 +110,26 @@ Indonesian AI copywriting assistant that generates persuasive, conversion-focuse
 
 </td>
 </tr>
+<tr>
+<td width="33%" valign="top">
+
+### 🧪 [Lakuin](https://lakuin.my.id)
+
+Product experimentation platform turning ideas into practical digital solutions. Also serves as my live portfolio.
+
+**Stack:**
+<br>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Full--Stack_JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+
+</td>
+<td width="33%" valign="top">
+
+</td>
+<td width="33%" valign="top">
+
+</td>
+</tr>
 </table>
 
 ---
@@ -119,6 +141,7 @@ graph TB
     A[🎯 2026 Focus Areas] --> B[🤖 AI & SaaS]
     A --> C[🌐 Web Development]
     A --> D[✍️ AI Content Tools]
+    A --> E[🔗 Open Source]
 
     B --> B1[AI Workflow Automation]
     B --> B2[LLM Integrations]
@@ -128,10 +151,14 @@ graph TB
 
     D --> D1[AI Copywriting Products]
 
+    E --> E1[Ideabank - Mindmap Ideas]
+    E --> E2[Community Contributions]
+
     style A fill:#9333EA,stroke:#7C3AED,color:#fff
     style B fill:#FF6B6B,stroke:#E63946,color:#fff
     style C fill:#4ECDC4,stroke:#35A29F,color:#fff
     style D fill:#FFD93D,stroke:#F4C430,color:#000
+    style E fill:#10B981,stroke:#059669,color:#fff
 ```
 
 ---
