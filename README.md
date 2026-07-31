@@ -125,6 +125,15 @@ Product experimentation platform turning ideas into practical digital solutions.
 </td>
 <td width="33%" valign="top">
 
+### 🗺️ [Component Atlas](https://github.com/khamalismadie/Component-atlas)
+
+Interactive visual map for React codebases — dependency graphs, re-render heatmaps, bundle size analysis.
+
+**Stack:**
+<br>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+
 </td>
 <td width="33%" valign="top">
 
@@ -152,7 +161,8 @@ graph TB
     D --> D1[AI Copywriting Products]
 
     E --> E1[Ideabank - Mindmap Ideas]
-    E --> E2[Community Contributions]
+    E --> E2[Component Atlas - React DevTools]
+    E --> E3[Community Contributions]
 
     style A fill:#9333EA,stroke:#7C3AED,color:#fff
     style B fill:#FF6B6B,stroke:#E63946,color:#fff
