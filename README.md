@@ -137,6 +137,15 @@ Interactive visual map for React codebases — dependency graphs, re-render heat
 </td>
 <td width="33%" valign="top">
 
+### ⚡ [PromptKit](https://clawhub.ai/khamalismadie/skills/promptkit)
+
+Auto-selects and applies prompting frameworks from 56 options for structured AI prompts. Multi-language support.
+
+**Stack:**
+<br>
+<img src="https://img.shields.io/badge/Prompt_Engineering-FF6B6B?style=flat-square" />
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" />
+
 </td>
 </tr>
 </table>
@@ -159,6 +168,7 @@ graph TB
     C --> C2[Fintech & Wallet Platforms]
 
     D --> D1[AI Copywriting Products]
+    D --> D2[PromptKit - AI Prompts]
 
     E --> E1[Ideabank - Mindmap Ideas]
     E --> E2[Component Atlas - React DevTools]
