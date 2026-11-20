@@ -148,7 +148,8 @@ Auto-selects and applies prompting frameworks from 56 options for structured AI 
 
 </td>
 </tr>
-</table>
+<tr>
+<td width="33%" valign="top">
 
 ### 🎮 [MrMoody](https://mrmoody.vercel.app/)
 
@@ -158,6 +159,12 @@ Browser 3D platformer built with Three.js, with 80 seeded levels across 4 acts, 
 <br>
 <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square" alt="Three.js" width="55" height="20" />
 <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" width="63" height="20" />
+
+</td>
+<td width="33%" valign="top"></td>
+<td width="33%" valign="top"></td>
+</tr>
+</table>
 
 ---
 
@@ -169,6 +176,7 @@ graph TB
     A --> C[🌐 Web Development]
     A --> D[✍️ AI Content Tools]
     A --> E[🔗 Open Source]
+    A --> F[🎮 Games & Interactive]
 
     B --> B1[AI Workflow Automation]
     B --> B2[LLM Integrations]
@@ -183,11 +191,16 @@ graph TB
     E --> E2[Component Atlas - React DevTools]
     E --> E3[Community Contributions]
 
+    F --> F1[Browser games & PWA]
+    F --> F2[Android & iOS games]
+    F --> F3[3D worlds with Three.js]
+
     style A fill:#9333EA,stroke:#7C3AED,color:#fff
     style B fill:#FF6B6B,stroke:#E63946,color:#fff
     style C fill:#4ECDC4,stroke:#35A29F,color:#fff
     style D fill:#FFD93D,stroke:#F4C430,color:#000
     style E fill:#10B981,stroke:#059669,color:#fff
+    style F fill:#FF9F1C,stroke:#F4A261,color:#fff
 ```
 
 ---
@@ -228,7 +241,7 @@ graph TB
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 **SaaS Applications**
 - Authentication systems
@@ -237,7 +250,7 @@ graph TB
 - Multi-tenant platforms
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 **Web Applications**
 - React & Next.js apps
@@ -246,13 +259,24 @@ graph TB
 - Performance optimization
 
 </td>
-<td width="33%" valign="top">
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 **AI Solutions**
 - OpenAI/LLM integrations
 - AI assistants & chatbots
 - Content generation tools
 - Workflow automation
+
+</td>
+<td width="50%" valign="top">
+
+**Games & Interactive**
+- Browser games & PWA
+- Android & iOS games
+- 3D worlds with Three.js
+- Leaderboards & daily runs
 
 </td>
 </tr>
