@@ -150,6 +150,15 @@ Auto-selects and applies prompting frameworks from 56 options for structured AI 
 </tr>
 </table>
 
+### 🎮 [MrMoody](https://mrmoody.vercel.app/)
+
+Browser 3D platformer built with Three.js, with 80 seeded levels across 4 acts, 10 worlds, and 4 weather modes. Includes endless runs, daily challenges, 50 collectible characters, and a tools shop. Drag to move, tap to jump. Installs as a PWA.
+
+**Stack:**
+<br>
+<img src="https://img.shields.io/badge/Three.js-000000?style=flat-square" alt="Three.js" width="55" height="20" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" width="63" height="20" />
+
 ---
 
 ## 💡 Development Roadmap
