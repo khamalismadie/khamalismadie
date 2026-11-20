@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Ismadie
 
-### Full-Stack JavaScript Developer | Next.js · React · Node.js · AI Applications
+## Full-Stack JavaScript Developer | Next.js · React · Node.js · AI Applications
 
-I build modern web applications, SaaS products, and AI-powered solutions for startups and businesses — focused on clean code, scalability, and real business impact.
+I build web apps, SaaS products, and AI tools for startups and businesses. Clean code, scalability, and business impact come first.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-lakuin.my.id-9333EA?style=for-the-badge&logo=vercel&logoColor=white)](https://lakuin.my.id)
 [![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://upwork.com/freelancers/ismadie)
@@ -59,7 +59,7 @@ const codePhilosophy = () => {
 };
 ```
 
-I'm a full-stack developer with years of hands-on experience shipping production software — from fintech platforms to AI-powered products. Currently **open to full-time, contract, and freelance opportunities**.
+I'm a full-stack developer who ships production software, from fintech platforms to AI products. Currently **open to full-time, contract, and freelance opportunities**.
 
 - 🌍 Based in Indonesia · Open to Remote
 - 💼 Available for full-time roles & freelance projects
@@ -79,10 +79,10 @@ Mindmap-powered idea management system with AI assistance. Open source project f
 
 **Stack:**
 <br>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" width="67" height="20" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" width="59" height="20" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" width="91" height="20" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" width="87" height="20" />
 
 </td>
 <td width="33%" valign="top">
@@ -93,8 +93,8 @@ Production-ready cryptocurrency wallet platform focused on usability, security, 
 
 **Stack:**
 <br>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" width="59" height="20" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" width="69" height="20" />
 
 </td>
 <td width="33%" valign="top">
@@ -105,8 +105,8 @@ Indonesian AI copywriting assistant that generates persuasive, conversion-focuse
 
 **Stack:**
 <br>
-<img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Prompt_Engineering-FF6B6B?style=flat-square" />
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI API" width="73" height="20" />
+<img src="https://img.shields.io/badge/Prompt_Engineering-FF6B6B?style=flat-square" alt="Prompt engineering" width="119" height="20" />
 
 </td>
 </tr>
@@ -119,20 +119,20 @@ Product experimentation platform turning ideas into practical digital solutions.
 
 **Stack:**
 <br>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Full--Stack_JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" width="67" height="20" />
+<img src="https://img.shields.io/badge/Full--Stack_JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="Full-stack JavaScript" width="99" height="20" />
 
 </td>
 <td width="33%" valign="top">
 
 ### 🗺️ [Component Atlas](https://github.com/khamalismadie/Component-atlas)
 
-Interactive visual map for React codebases — dependency graphs, re-render heatmaps, bundle size analysis.
+Interactive visual map for React codebases: dependency graphs, re-render heatmaps, bundle size analysis.
 
 **Stack:**
 <br>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" width="87" height="20" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" width="59" height="20" />
 
 </td>
 <td width="33%" valign="top">
@@ -143,8 +143,8 @@ Auto-selects and applies prompting frameworks from 56 options for structured AI 
 
 **Stack:**
 <br>
-<img src="https://img.shields.io/badge/Prompt_Engineering-FF6B6B?style=flat-square" />
-<img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Prompt_Engineering-FF6B6B?style=flat-square" alt="Prompt engineering" width="119" height="20" />
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI API" width="73" height="20" />
 
 </td>
 </tr>
@@ -187,31 +187,31 @@ graph TB
 
 **Frontend**
 
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" width="59" height="20" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" width="67" height="20" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" width="85" height="20" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" width="87" height="20" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" width="99" height="20" />
 
 **Backend**
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" width="69" height="20" />
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" width="71" height="20" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" width="91" height="20" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" width="81" height="20" />
+<img src="https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=fastapi&logoColor=white" alt="REST API" width="79" height="20" />
 
 **AI & Automation**
 
-<img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Prompt_Engineering-FF6B6B?style=flat-square" />
-<img src="https://img.shields.io/badge/AI_Workflows-9333EA?style=flat-square" />
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI API" width="73" height="20" />
+<img src="https://img.shields.io/badge/Prompt_Engineering-FF6B6B?style=flat-square" alt="Prompt engineering" width="119" height="20" />
+<img src="https://img.shields.io/badge/AI_Workflows-9333EA?style=flat-square" alt="AI workflows" width="83" height="20" />
 
 **Tools**
 
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" width="43" height="20" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" width="63" height="20" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" width="67" height="20" />
 </div>
 ---
 
@@ -239,7 +239,7 @@ graph TB
 </td>
 <td width="33%" valign="top">
 
-**AI-Powered Solutions**
+**AI Solutions**
 - OpenAI/LLM integrations
 - AI assistants & chatbots
 - Content generation tools
@@ -255,8 +255,8 @@ graph TB
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=khamalismadie&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khamalismadie&layout=compact&theme=tokyonight&hide_border=true" width="35%" />
+<img src="https://github-readme-stats.vercel.app/api?username=khamalismadie&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats for khamalismadie" width="467" height="195" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khamalismadie&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used languages for khamalismadie" width="300" height="165" />
 
 </div>
 
@@ -271,8 +271,8 @@ graph TB
 ## 💼 Professional Status
 
 [![Freelance](https://img.shields.io/badge/💼_Freelance-Available-006400?style=for-the-badge)](https://upwork.com/freelancers/ismadie)
-[![Full-Time](https://img.shields.io/badge/🤝_Full--Time-Open-FF8C00?style=for-the-badge)]()
-[![Remote](https://img.shields.io/badge/🌍_Remote-Preferred-4B0082?style=for-the-badge)]()
+![Full-Time](https://img.shields.io/badge/🤝_Full--Time-Open-FF8C00?style=for-the-badge)
+![Remote](https://img.shields.io/badge/🌍_Remote-Preferred-4B0082?style=for-the-badge)
 
 ---
 
