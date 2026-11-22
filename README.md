@@ -248,6 +248,22 @@ graph TB
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khamalismadie/khamalismadie/main/outputs/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/khamalismadie/khamalismadie/main/outputs/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/khamalismadie/khamalismadie/main/outputs/github-snake.svg" alt="Animated snake eating khamalismadie's GitHub contribution grid" width="880" height="192" />
+</picture>
+
+</div>
+
+Generated daily from my contribution graph by [Platane/snk](https://github.com/Platane/snk).
+
+---
+
 ## 🤝 Open For
 
 `Full-Time Roles` · `SaaS Development` · `Startup MVPs` · `AI Integrations` · `React / Next.js Projects` · `Long-Term Collaborations`
