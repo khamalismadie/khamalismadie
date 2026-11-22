@@ -207,33 +207,50 @@ graph TB
 
 ## 💼 What I Can Build
 
-### SaaS Applications
+<table>
+<tr>
+<td>
+
+**SaaS Applications**
 
 - Authentication systems
 - Subscription & billing
 - Admin dashboards
 - Multi-tenant platforms
 
-### Web Applications
+</td>
+<td>
+
+**Web Applications**
 
 - React & Next.js apps
 - API integrations
 - Internal business tools
 - Performance optimization
 
-### AI Solutions
+</td>
+<td>
+
+**AI Solutions**
 
 - OpenAI/LLM integrations
 - AI assistants & chatbots
 - Content generation tools
 - Workflow automation
 
-### Games & Interactive
+</td>
+<td>
+
+**Games & Interactive**
 
 - Browser games & PWA
 - Android & iOS games
 - 3D worlds with Three.js
 - Leaderboards & daily runs
+
+</td>
+</tr>
+</table>
 
 ---
 
