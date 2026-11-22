@@ -276,13 +276,20 @@ Generated daily from my contribution graph by [Platane/snk](https://github.com/P
 
 ## 🤝 Open For
 
-`Full-Time Roles` · `SaaS Development` · `Startup MVPs` · `AI Integrations` · `React / Next.js Projects` · `Long-Term Collaborations`
+- ✅ Full-Time Roles
+- ✅ SaaS Development
+- ✅ Startup MVPs
+- ✅ AI Integrations
+- ✅ React / Next.js Projects
+- ✅ Long-Term Collaborations
 
 ---
 
 ## 💼 Professional Status
 
-Freelance Full-Time Remote
+🟢 **Available for new projects**
+
+Freelance · Full-Time · Remote
 
 ---
 
@@ -292,7 +299,9 @@ Freelance Full-Time Remote
 - [Upwork](https://upwork.com/freelancers/ismadie)
 - [GitHub](https://github.com/khamalismadie)
 
-Let's build something useful.
+> [!TIP]
+> ### 🚀 Let's build something useful.
+> Tell me what you are building. I reply fastest on [Upwork](https://upwork.com/freelancers/ismadie).
 
 ---
 
