@@ -175,32 +175,9 @@ graph TB
 <div align="center">
 ## 🛠 Tech Stack
 
-**Frontend**
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind,threejs,nodejs,express,postgres,mongodb,rust,git,vercel,docker&perline=7" alt="React, Next.js, JavaScript, TypeScript, Tailwind CSS, Three.js, Node.js, Express, PostgreSQL, MongoDB, Rust, Git, Vercel and Docker logos" width="386" height="104" />
 
-<img src="https://img.shields.io/badge/-000000?logo=react&logoColor=61DAFB" alt="React" width="25" height="20" />
-<img src="https://img.shields.io/badge/-000000?logo=next.js&logoColor=ffffff" alt="Next.js" width="25" height="20" />
-<img src="https://img.shields.io/badge/-F7DF1E?logo=javascript&logoColor=000000" alt="JavaScript" width="25" height="20" />
-<img src="https://img.shields.io/badge/-3178C6?logo=typescript&logoColor=ffffff" alt="TypeScript" width="25" height="20" />
-<img src="https://img.shields.io/badge/-06B6D4?logo=tailwindcss&logoColor=ffffff" alt="Tailwind CSS" width="25" height="20" />
-<img src="https://img.shields.io/badge/-000000?logo=threedotjs&logoColor=ffffff" alt="Three.js" width="25" height="20" />
-
-**Backend**
-
-<img src="https://img.shields.io/badge/-339933?logo=node.js&logoColor=ffffff" alt="Node.js" width="25" height="20" />
-<img src="https://img.shields.io/badge/-000000?logo=express&logoColor=ffffff" alt="Express" width="25" height="20" />
-<img src="https://img.shields.io/badge/-4169E1?logo=postgresql&logoColor=ffffff" alt="PostgreSQL" width="25" height="20" />
-<img src="https://img.shields.io/badge/-47A248?logo=mongodb&logoColor=ffffff" alt="MongoDB" width="25" height="20" />
-<img src="https://img.shields.io/badge/-DEA584?logo=rust&logoColor=000000" alt="Rust" width="25" height="20" />
-
-**AI & Automation**
-
-<img src="https://img.shields.io/badge/-412991?logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU%2BT3BlbkFJPC90aXRsZT48cGF0aCBmaWxsPSIjZmZmZmZmIiBkPSJNMjIuMjgxOSA5LjgyMTFhNS45ODQ3IDUuOTg0NyAwIDAgMC0uNTE1Ny00LjkxMDggNi4wNDYyIDYuMDQ2MiAwIDAgMC02LjUwOTgtMi45QTYuMDY1MSA2LjA2NTEgMCAwIDAgNC45ODA3IDQuMTgxOGE1Ljk4NDcgNS45ODQ3IDAgMCAwLTMuOTk3NyAyLjkgNi4wNDYyIDYuMDQ2MiAwIDAgMCAuNzQyNyA3LjA5NjYgNS45OCA1Ljk4IDAgMCAwIC41MTEgNC45MTA3IDYuMDUxIDYuMDUxIDAgMCAwIDYuNTE0NiAyLjkwMDFBNS45ODQ3IDUuOTg0NyAwIDAgMCAxMy4yNTk5IDI0YTYuMDU1NyA2LjA1NTcgMCAwIDAgNS43NzE4LTQuMjA1OCA1Ljk4OTQgNS45ODk0IDAgMCAwIDMuOTk3Ny0yLjkwMDEgNi4wNTU3IDYuMDU1NyAwIDAgMC0uNzQ3NS03LjA3Mjl6bS05LjAyMiAxMi42MDgxYTQuNDc1NSA0LjQ3NTUgMCAwIDEtMi44NzY0LTEuMDQwOGwuMTQxOS0uMDgwNCA0Ljc3ODMtMi43NTgyYS43OTQ4Ljc5NDggMCAwIDAgLjM5MjctLjY4MTN2LTYuNzM2OWwyLjAyIDEuMTY4NmEuMDcxLjA3MSAwIDAgMSAuMDM4LjA1MnY1LjU4MjZhNC41MDQgNC41MDQgMCAwIDEtNC40OTQ1IDQuNDk0NHptLTkuNjYwNy00LjEyNTRhNC40NzA4IDQuNDcwOCAwIDAgMS0uNTM0Ni0zLjAxMzdsLjE0Mi4wODUyIDQuNzgzIDIuNzU4MmEuNzcxMi43NzEyIDAgMCAwIC43ODA2IDBsNS44NDI4LTMuMzY4NXYyLjMzMjRhLjA4MDQuMDgwNCAwIDAgMS0uMDMzMi4wNjE1TDkuNzQgMTkuOTUwMmE0LjQ5OTIgNC40OTkyIDAgMCAxLTYuMTQwOC0xLjY0NjR6TTIuMzQwOCA3Ljg5NTZhNC40ODUgNC40ODUgMCAwIDEgMi4zNjU1LTEuOTcyOFYxMS42YS43NjY0Ljc2NjQgMCAwIDAgLjM4NzkuNjc2NWw1LjgxNDQgMy4zNTQzLTIuMDIwMSAxLjE2ODVhLjA3NTcuMDc1NyAwIDAgMS0uMDcxIDBsLTQuODMwMy0yLjc4NjVBNC41MDQgNC41MDQgMCAwIDEgMi4zNDA4IDcuODcyem0xNi41OTYzIDMuODU1OEwxMy4xMDM4IDguMzY0IDE1LjExOTIgNy4yYS4wNzU3LjA3NTcgMCAwIDEgLjA3MSAwbDQuODMwMyAyLjc5MTNhNC40OTQ0IDQuNDk0NCAwIDAgMS0uNjc2NSA4LjEwNDJ2LTUuNjc3MmEuNzkuNzkgMCAwIDAtLjQwNy0uNjY3em0yLjAxMDctMy4wMjMxbC0uMTQyLS4wODUyLTQuNzczNS0yLjc4MThhLjc3NTkuNzc1OSAwIDAgMC0uNzg1NCAwTDkuNDA5IDkuMjI5N1Y2Ljg5NzRhLjA2NjIuMDY2MiAwIDAgMSAuMDI4NC0uMDYxNWw0LjgzMDMtMi43ODY2YTQuNDk5MiA0LjQ5OTIgMCAwIDEgNi42ODAyIDQuNjZ6TTguMzA2NSAxMi44NjNsLTIuMDItMS4xNjM4YS4wODA0LjA4MDQgMCAwIDEtLjAzOC0uMDU2N1Y2LjA3NDJhNC40OTkyIDQuNDk5MiAwIDAgMSA3LjM3NTctMy40NTM3bC0uMTQyLjA4MDVMOC43MDQgNS40NTlhLjc5NDguNzk0OCAwIDAgMC0uMzkyNy42ODEzem0xLjA5NzYtMi4zNjU0bDIuNjAyLTEuNDk5OCAyLjYwNjkgMS40OTk4djIuOTk5NGwtMi41OTc0IDEuNDk5Ny0yLjYwNjctMS40OTk3WiIvPjwvc3ZnPg%3D%3D" alt="OpenAI" width="25" height="20" />
-
-**Tools**
-
-<img src="https://img.shields.io/badge/-F05032?logo=git&logoColor=ffffff" alt="Git" width="25" height="20" />
-<img src="https://img.shields.io/badge/-000000?logo=vercel&logoColor=ffffff" alt="Vercel" width="25" height="20" />
-<img src="https://img.shields.io/badge/-2496ED?logo=docker&logoColor=ffffff" alt="Docker" width="25" height="20" />
+<img src="https://api.iconify.design/simple-icons/openai.svg?color=%23412991" alt="OpenAI logo" width="48" height="48" />
 
 </div>
 ---
