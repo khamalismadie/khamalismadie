@@ -282,23 +282,17 @@ Generated daily from my contribution graph by [Platane/snk](https://github.com/P
 
 ## 💼 Professional Status
 
-[![Freelance](https://img.shields.io/badge/💼_Freelance-Available-006400?style=for-the-badge)](https://upwork.com/freelancers/ismadie)
-![Full-Time](https://img.shields.io/badge/🤝_Full--Time-Open-FF8C00?style=for-the-badge)
-![Remote](https://img.shields.io/badge/🌍_Remote-Preferred-4B0082?style=for-the-badge)
+Freelance Full-Time Remote
 
 ---
 
 ## 📫 Let's Connect
 
-<div align="center">
+- [Portfolio](https://lakuin.my.id)
+- [Upwork](https://upwork.com/freelancers/ismadie)
+- [GitHub](https://github.com/khamalismadie)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-lakuin.my.id-9333EA?style=for-the-badge)](https://lakuin.my.id)
-[![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://upwork.com/freelancers/ismadie)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khamalismadie)
-
-**Let's build something useful.**
-
-</div>
+Let's build something useful.
 
 ---
 
