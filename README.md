@@ -12,6 +12,10 @@ I build web apps, SaaS products, and AI tools for startups and businesses. Clean
 
 </div>
 
+> [!TIP]
+> **🟢 Available for freelance, full-time, and remote work.**
+> I help startups and product teams ship production SaaS, web apps, and AI integrations with Next.js, React, and Node.js. Send me your scope and deadline, I'll tell you what is realistic. [Message me on Upwork](https://upwork.com/freelancers/ismadie).
+
 ---
 
 ## 🧑‍💻 About Me
@@ -78,6 +82,8 @@ I'm a full-stack developer who ships production software, from fintech platforms
 
 Mindmap-powered idea management system with AI assistance. Open source project for capturing, connecting, and developing ideas visually.
 
+**Built for:** Founders and makers who lose ideas across notes: an open-source mindmap workspace with AI assistance, still maintained in 2026.
+
 **Stack:**
 <br>
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" width="67" height="20" />
@@ -92,6 +98,8 @@ Mindmap-powered idea management system with AI assistance. Open source project f
 
 Indonesian AI copywriting assistant that generates persuasive, conversion-focused marketing content.
 
+**Built for:** Indonesian marketers who need copy fast: a live AI assistant focused on conversion-oriented text.
+
 **Stack:**
 <br>
 <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI API" width="73" height="20" />
@@ -103,6 +111,8 @@ Indonesian AI copywriting assistant that generates persuasive, conversion-focuse
 ### 🧪 [Lakuin](https://lakuin.my.id)
 
 Product experimentation platform turning ideas into practical digital solutions. Also serves as my live portfolio.
+
+**Built for:** Teams testing ideas before committing budget: a live experimentation platform that doubles as my portfolio.
 
 **Stack:**
 <br>
@@ -118,6 +128,8 @@ Product experimentation platform turning ideas into practical digital solutions.
 
 Interactive visual map for React codebases: dependency graphs, re-render heatmaps, bundle size analysis.
 
+**Built for:** React developers chasing re-render and bundle problems: an open-source visual map of dependencies, re-render heatmaps, and bundle size.
+
 **Stack:**
 <br>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" width="87" height="20" />
@@ -130,6 +142,8 @@ Interactive visual map for React codebases: dependency graphs, re-render heatmap
 
 Auto-selects and applies prompting frameworks from 56 options for structured AI prompts. Multi-language support.
 
+**Built for:** Teams using AI prompts inconsistently: a live tool that auto-selects from 56 prompting frameworks, with multi-language support.
+
 **Stack:**
 <br>
 <img src="https://img.shields.io/badge/Prompt_Engineering-FF6B6B?style=flat-square" alt="Prompt engineering" width="119" height="20" />
@@ -141,6 +155,8 @@ Auto-selects and applies prompting frameworks from 56 options for structured AI 
 ### 🎮 [MrMoody](https://mrmoody.vercel.app/)
 
 Browser 3D platformer built with Three.js, with 80 seeded levels across 4 acts, 10 worlds, and 4 weather modes. Includes endless runs, daily challenges, 50 collectible characters, and a tools shop. Drag to move, tap to jump. Installs as a PWA.
+
+**Built for:** Players who want a game that runs anywhere: an installable PWA with 80 seeded levels across 4 acts, live on Vercel.
 
 **Stack:**
 <br>
@@ -276,12 +292,11 @@ Generated daily from my contribution graph by [Platane/snk](https://github.com/P
 
 ## 🤝 Open For
 
-- ✅ Full-Time Roles
-- ✅ SaaS Development
-- ✅ Startup MVPs
-- ✅ AI Integrations
-- ✅ React / Next.js Projects
-- ✅ Long-Term Collaborations
+- ✅ MVP development for early-stage SaaS
+- ✅ Production React / Next.js web apps
+- ✅ OpenAI / LLM integrations and automation
+- ✅ Full-time and contract engineering roles
+- ✅ Long-term collaboration with product teams
 
 ---
 
