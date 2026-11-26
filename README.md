@@ -14,7 +14,7 @@ I build web apps, SaaS products, and AI tools for startups and businesses. Clean
 
 > [!TIP]
 > **🟢 Available for freelance, full-time, and remote work.**
-> I help startups and product teams ship production SaaS, web apps, and AI integrations with Next.js, React, and Node.js. Send me your scope and deadline, I'll tell you what is realistic. [Message me on Upwork](https://upwork.com/freelancers/ismadie).
+> I help startups and product teams ship production SaaS, web apps, and AI integrations with Next.js, React, and Node.js. Send me your scope and deadline, I'll tell you what is realistic. [Email me](mailto:ismadiepro@gmail.com) or [message me on Upwork](https://upwork.com/freelancers/ismadie).
 
 ---
 
@@ -316,7 +316,7 @@ Freelance · Full-Time · Remote
 
 > [!TIP]
 > ### 🚀 Let's build something useful.
-> Tell me what you are building. I reply fastest on [Upwork](https://upwork.com/freelancers/ismadie).
+> Tell me what you are building. Email [ismadiepro@gmail.com](mailto:ismadiepro@gmail.com), or message me on [Upwork](https://upwork.com/freelancers/ismadie).
 
 ---
 
